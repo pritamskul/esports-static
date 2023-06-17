@@ -94,7 +94,7 @@ ul{
   /* height: 10px !important; */
   animation-name: example;
   animation-duration: 10s;
-  animation-delay: 2s;
+  animation-delay: 1.2s;
   animation-iteration-count: 5;
 
   background: rgba(255, 191, 0, 0.906);
