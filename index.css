@@ -12,7 +12,7 @@
   height: 100vh;
   background-image: linear-gradient(rgba(0,0.75,0,0.75), rgba(0,0,0,0.75)), url(images/banner1.jpeg) !important;
   background-size: cover;
-  background-position: -10vh;
+  background-position: 0vh;
 }
 
 /* Reset default styles */
