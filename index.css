@@ -32,6 +32,9 @@ body, ul {
   padding: 0 20px;
   flex-wrap: nowrap !important;
 }
+ul{
+  padding-left: 0 !important;
+}
 
 .logo{
   font-weight: bold;
